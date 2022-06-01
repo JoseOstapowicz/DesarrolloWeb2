@@ -1,0 +1,58 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 80%;
+    max-width: 1024px;
+    background-image: url(img/FONDO2.jpg);
+    background-size: cover;
+    
+}
+
+:root {
+    --fondotitulo3: #
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    background-color: rgba(0, 0, 255, 0.096);
+}
+
+.cabecera {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courgette', cursive;
+    font-size: 1.5em;
+    text-align: justify;
+    color: #FAC213;
+}
+
+ul{
+    font-family: 'Courgette', cursive;
+    font-size: 1.5em;
+    text-align: justify;
+    color: #FAC213;
+}   
+
+h1 {
+    text-align: center;
+    color: #F90716;
+} 
+
+h2 {
+    text-align: center;
+    color: #A760FF;
+}
+     
+h3 {
+    text-align: center;
+    color: #FEF9A7
+}
+
